@@ -1,4 +1,4 @@
-# Cryptography Console Application (C#)
+# Modern Cryptography Task 1
 
 ## Overview
 
